@@ -1,1 +1,1 @@
-# devrel-content-template
+# ARM Resource Class Executors
